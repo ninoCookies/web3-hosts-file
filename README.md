@@ -4,6 +4,10 @@ Practise what you preach, host your website on an unstoppable Web3 hosting, powe
 # The Approw3d initiative
 ![Approw3d initiative logo](https://github.com/ninoCookies/web3-hosts-file/blob/main/logos/Approw3d-logo5.png "Approw3d initiative logo")
 
+The Approwed initiative was started by Apillon and CRUST in order to improve overall Web3 infrastructure within Polkadot ecosystem. 
+Polkadot as pinnacle of Web3 has several projects whos websites and other products still reside on centralised services, while Web3 alternative is not only faster and as reliable, it is also cheaper. 
+
+{here we add CRUST and Apillon logos}
 
 # The table
 | Project     | http Link | ipfs Link |
