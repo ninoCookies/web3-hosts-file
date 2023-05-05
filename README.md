@@ -2,6 +2,8 @@
 Practise what you preach, host your website on an unstoppable Web3 hosting, powered by IPFS. 
 
 # The Approw3d initiative
+![Approw3d initiative logo](https://github.com/ninoCookies/web3-hosts-file/blob/main/logos/Approw3d-logo5.png "Approw3d initiative logo")
+
 
 # The table
 | Project     | http Link | ipfs Link |
